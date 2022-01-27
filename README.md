@@ -28,7 +28,7 @@ I'm a junior web developer with +3 years of experience working with frontend tec
 - 🌱 I’m currently learning Vuejs. 
 - 👯 I’m interested to learn Python.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about my carer!
+- 💬 Ask me about my career!
 - 📫 How to reach me: [Facebook](https://www.facebook.com/abdiel.pinzoncarrera), [Twitter](https://twitter.com/Abdiel262)
 
 #### Programming Languages 💻
