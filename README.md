@@ -1,13 +1,10 @@
-ines (32 sloc) 4.67 KB
-<p align="center">
- <img width="100%" height="100%" src="https://drive.google.com/file/d/1sJd6QJ55JdXyPp8Ahu7HOs4HUDpnU21g/view?usp=sharing" align="center" alt="Abdiel Pinzón Carrera portfolio" />
- <h2 align="center">Profile</h2>
-</p>
+
+<img src="https://github.com/AbdielP/AbdielP/blob/master/images/github%20bg.png?raw=true" align="center" alt="Abdiel Pinzón Carrera portfolio"/>
 
 ### Hi there ✨👋, I'm [Abdiel P. Carrera](https://abdielp.github.io/webdeveloper-portfolio/), and welcome to my Github page. Check it out.
 
 <div>
- <p align="center">
+ <p>
 I am a junior web developer with 3 years of experience working with frontend technologies, Javascript, Angular and recently Vuejs. I also have experience with Javascript backend technologies, specifically Nodejs. I am a native Spanish speaker, who is doing his best to learn English. . 🥵 🇬🇧 🇪🇸. 
 </p>
 </div>
