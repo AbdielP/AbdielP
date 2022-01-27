@@ -1,6 +1,7 @@
-
-<img src="https://github.com/AbdielP/AbdielP/blob/master/images/github%20bg.png?raw=true" align="center" alt="Abdiel Pinzón Carrera portfolio"/>
-
+ <p align="center" >
+ <img src="https://github.com/AbdielP/AbdielP/blob/master/images/github%20bg.png?raw=true" alt="Abdiel Pinzón Carrera portfolio"/>
+ </p>
+ 
 ### Hi there ✨👋, I'm [Abdiel P. Carrera](https://abdielp.github.io/webdeveloper-portfolio/), and welcome to my Github page. Check it out.
 
 <div>
