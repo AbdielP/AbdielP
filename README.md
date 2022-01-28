@@ -3,7 +3,7 @@
 <p>
 <a href="https://abdielp.github.io/webdeveloper-portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-AbdielP%20--%20webdeveloper--portfolio-%230961B8?style=flat&logo=google-chrome"></a>
 <a href="https://twitter.com/Abdiel262" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Abdiel262&style=social&url=https%3A%2F%2Ftwitter.com%2FAbdiel262"></a>
-<a href="https://www.linkedin.com/in/abdiel-pinz%C3%B3n-343812196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%40abdiel--pinz%C3%B3n--343812196-%230961B8?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/abdielpinzoncarrera" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%40abdiel--pinz%C3%B3n-%230961B8?style=flat&logo=linkedin"></a>
  <a href="mailto:abdiel.pinzonc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdiel.pinzonc@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
