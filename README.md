@@ -2,12 +2,13 @@
  <img src="https://github.com/AbdielP/AbdielP/blob/master/images/github%20bg.png?raw=true" alt="Abdiel Pinzón Carrera portfolio"/>
  </p>
  
-### Hi there ✨👋. 
-### I'm [Abdiel P. Carrera](https://abdielp.github.io/webdeveloper-portfolio/), and welcome to my Github page. Check it out.
+### Hello 👋. 
+### My name is [Abdiel P. Carrera](https://abdielp.github.io/webdeveloper-portfolio/), and welcome to my github page.
 
 <div>
  <p>
-I am a junior web developer with +3 years of experience working with frontend technologies, Javascript, Angular and recently Vuejs. I also have experience with Javascript backend technologies, specifically Nodejs. I am a native Spanish speaker, who is doing his best to learn English. 🥵 🇬🇧 🇪🇸. 
+I am a full stack javascript developer from [Panama](https://www.google.com/search?q=panama&sxsrf=ALiCzsbmHdVfi6vOou0gn3Kz7rX5Z4Hekg%3A1654288145194&source=hp&ei=EW-aYoL8B76xqtsP__OyyAs&iflsig=AJiK0e8AAAAAYpp9IYFu5XR3xSu5wXgMmror7gPZmzUw&ved=0ahUKEwjCyPzJj5L4AhW-mGoFHf-5DLkQ4dUDCAY&uact=5&oq=panama&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIICAAQsQMQgwEyCAguENQCEMsBMgoIABCABBCHAhAUMgUIABDLATIICAAQsQMQgwE6BwgjEOoCECc6BAgAEEM6CggAELEDEIMBEEM6CAguELEDEIMBOhAILhCxAxCDARDHARDRAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6DgguEIAEELEDEIMBENQCUNMEWNkIYNwJaAFwAHgAgAGNAYgB7gSSAQMwLjWYAQCgAQGwAQo&sclient=gws-wiz) with experience in javascript technologies as: nodejs, angular and vuejs.
+<!-- I am a junior web developer with +3 years of experience working with frontend technologies, Javascript, Angular and recently Vuejs. I also have experience with Javascript backend technologies, specifically Nodejs. I am a native Spanish speaker, who is doing his best to learn English. 🥵 🇬🇧 🇪🇸.  -->
 </p>
 </div>
 
@@ -27,6 +28,6 @@ I am a junior web developer with +3 years of experience working with frontend te
 - 🔭 I’m currently working on improve my frontend and backend skills! 🦾
 - 🌱 I’m currently learning Vuejs. 
 - 👯 I’m interested to learn Python.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my carer!
+- 🤔 I’m looking for a web developer job!
+- 💬 Ask me about my career!
 - 📫 How to reach me: [Facebook](https://www.facebook.com/abdiel.pinzoncarrera), [Twitter](https://twitter.com/Abdiel262)
