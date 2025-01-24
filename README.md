@@ -14,5 +14,4 @@
 - **Frameworks:** React, Vue.js, Angular, Express.js.  
 - **Specialization:** JavaScript web development.  
 
-## 📬 LinkedIn  
-- [LinkedIn](https://www.linkedin.com/in/abdielpinzoncarrera) 
+## 📬 [LinkedIn](https://www.linkedin.com/in/abdielpinzoncarrera) 
