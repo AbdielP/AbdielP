@@ -10,7 +10,6 @@ Profesional de sistemas en un datacenter internacional, donde desde 2020 diseño
 - **Backend y APIs:** Node.js, Express, APIs REST, C# / .NET (básico)
 - **Bases de datos:** MySQL, PostgreSQL / Supabase, MongoDB
 - **Herramientas:** Git, GitHub, Docker
-- **IA:** desarrollo asistido con Claude Code
 
 ## 🚀 Proyectos destacados
 | Proyecto | Qué es | Stack | Links |
