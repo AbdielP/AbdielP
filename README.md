@@ -1,28 +1,25 @@
-# 👋 Hi, I'm Abdiel  
-## Welcome to my GitHub profile!
+# Hola, soy Abdiel 👋
 
-I'm a passionate software developer with several years of experience building full-stack applications. I specialize in **JavaScript development** and love creating modern, efficient, and user-friendly web solutions.
+**Desarrollador de Software Full Stack** · Ciudad de Panamá 🇵🇦
 
-## 🔧 Technologies & Skills  
-- **Languages:** JavaScript, TypeScript, SQL  
-- **Frameworks & Libraries:** React, Vue.js, Angular, Express.js, Node.js  
-- **Databases:** SQL, NoSQL  
-- **Tools:** Git, VS Code, Postman, Playwright  
-- **Other:** REST APIs, Automated Testing, Responsive Design  
+Profesional de sistemas en un datacenter internacional, donde desde 2020 diseño, construyo y mantengo aplicaciones internas que se usan a diario: monitoreo de sensores por SNMP, control de accesos con códigos QR y gestión de llaves. Maestría en Ingeniería de Software (UTP).
 
-## 🌐 Portfolio  
-Check out my latest portfolio:  
-👉 [https://abdielp.github.io/portfolio/](https://abdielp.github.io/portfolio/)
+## 🔧 Tecnologías
+- **Lenguajes:** JavaScript, TypeScript, PHP, SQL
+- **Frontend:** React, React Native / Expo, Angular, Vue.js, MUI, Angular Material, Bootstrap
+- **Backend y APIs:** Node.js, Express, APIs REST, C# / .NET (básico)
+- **Bases de datos:** MySQL, PostgreSQL / Supabase, MongoDB
+- **Herramientas:** Git, GitHub, Docker
+- **IA:** desarrollo asistido con Claude Code
 
-## 🤝🏻 Connect with Me  
-<p>
-  <a href="https://abdielp.github.io/portfolio/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-AbdielP%20--%20portfolio-%230961B8?style=flat&logo=google-chrome">
-  </a>
-  <a href="https://www.linkedin.com/in/abdielpinzoncarrera" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%40abdiel--pinz%C3%B3n-%230961B8?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:abdiel.pinzonc@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-abdiel.pinzonc@gmail.com-blue?style=flat&logo=gmail">
-  </a>
-</p>
+## 🚀 Proyectos destacados
+| Proyecto | Qué es | Stack | Links |
+|---|---|---|---|
+| **Atlas** | App web y móvil de viajes con globo 3D, álbum de fotos y logros | React Native, Expo, Three.js, Supabase | [Código](https://github.com/AbdielP/Atlas) · [Demo](https://atlas-demo-beta-woad.vercel.app) |
+| **HelpDesk UTP** | Mesa de ayuda con microservicios (proyecto en equipo) | React, C# / .NET 9, PostgreSQL, SignalR, Docker | [Código](https://github.com/AbdielP/helpdesk-utp) · [Demo](https://helpdesk-utp.vercel.app) |
+
+## 🏢 Aplicaciones internas (datacenter)
+Los repos de **monitoreo SNMP**, **QR de accesos** y **dashboard de llaves** contienen solo el frontend: son sistemas de uso interno en producción, y su backend y base de datos viven en la red privada del datacenter, por lo que no tienen versión pública.
+
+## 🤝 Contacto
+[Portafolio](https://abdielp.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/abdielpinzoncarrera) · abdiel.pinzonc@gmail.com
